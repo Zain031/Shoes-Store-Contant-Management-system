@@ -1,0 +1,273 @@
+[
+    {
+      "name": "Air FlexStride",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "price": 50,
+      "stock": 100,
+      "imgUrl": "https://img.freepik.com/free-photo/pair-trainers_144627-3810.jpg?t=st=1712077445~exp=1712081045~hmac=7cab8c147143785c6dacc5f8d3482984adc0eccad7a21ed643735409dc985887&w=1060",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    {
+      "name": "UltraBoost Primeknit",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "price": 60,
+      "stock": 80,
+      "imgUrl": "https://i1.adis.ws/i/jpl/jd_B75806_a?w=700&resmode=sharp&qlt=70&fmt=webp",
+      "categoryId": 2,
+      "authorId": 1
+    },
+    {
+      "name": "NMD R1 Knit",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "price": 70,
+      "stock": 120,
+      "imgUrl": "https://blog.atome.id/wp-content/uploads/2022/12/2-5-7.jpg",
+      "categoryId": 3,
+      "authorId": 1
+    },
+    {
+      "name": "ZoomSwift Elite",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "price": 80,
+      "stock": 90,
+      "imgUrl": "https://i1.adis.ws/i/jpl/jd_AH8050-100_a?w=700&resmode=sharp&qlt=70&fmt=webp",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    {
+      "name": "Swift Run X",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "price": 90,
+      "stock": 110,
+      "imgUrl": "https://www.sepkicks.com/uploads/Adidas_Shoes/Adidas_ZX_EQT_Series/Adidas_ZX_750_HD_Collegiate_Royal_Red_Shoes_FX7463_P1.jpg",
+      "categoryId": 2,
+      "authorId": 1
+    },
+    {
+      "name": "Gazelle Suede ",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "price": 100,
+      "stock": 95,
+      "imgUrl": "https://filebroker-cdn.lazada.co.id/kf/S1edb49d229a1429d8ee013ce0c356a2dP.jpg",
+      "categoryId": 3,
+      "authorId": 1
+    },
+    {
+      "name": "FlyKnit Maxima",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "price": 110,
+      "stock": 85,
+      "imgUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    {
+      "name": "Superstar Shelltoe",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "price": 120,
+      "stock": 105,
+      "imgUrl": "https://e0.pxfuel.com/wallpapers/571/403/desktop-wallpaper-adidas-shoes-others-background.jpg",
+      "categoryId": 2,
+      "authorId": 1
+    },
+    {
+      "name": "ZX Flux Weave",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "price": 130,
+      "stock": 75,
+      "imgUrl": "https://filebroker-cdn.lazada.co.id/kf/Sa3f03c2e14f84132878bcfef68e31467W.jpg",
+      "categoryId": 3,
+      "authorId": 1
+    },
+    {
+      "name": "Air VaporEdge",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "price": 140,
+      "stock": 115,
+      "imgUrl": "https://png.pngtree.com/thumb_back/fh260/background/20230527/pngtree-nike-running-shoes-on-black-background-with-colorful-splashes-image_2671040.jpg",
+      "categoryId": 1,
+      "authorId": 1
+    },
+      {
+        "name": "Harden Vol. 5",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 60,
+        "stock": 80,
+        "imgUrl": "https://id-test-11.slatic.net/p/c45b02accf2367a335494582b8dee6af.jpg",
+        "categoryId": 3,
+        "authorId": 1
+      },
+      {
+        "name": "React Infinity Run",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 70,
+        "stock": 120,
+        "imgUrl": "https://e0.pxfuel.com/wallpapers/960/415/desktop-wallpaper-nike-shoes-best-background-nike-air.jpg",
+        "categoryId": 1,
+        "authorId": 1
+      },
+      {
+        "name": "Stan Smith Leather",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 80,
+        "stock": 90,
+        "imgUrl": "https://e1.pxfuel.com/desktop-wallpaper/671/916/desktop-wallpaper-nike-shoe-group-nike-shoes.jpg",
+        "categoryId": 2,
+        "authorId": 1
+      },
+      {
+        "name": "Adilette Comfort Slide",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 90,
+        "stock": 110,
+        "imgUrl": "https://static.promediateknologi.id/crop/74x314:712x752/750x500/webp/photo/p1/783/2023/11/17/Screenshot_2023-11-17-16-12-01-25_40deb401b9ffe8e1df2f1cc5ba480b12-2861833717.jpg",
+        "categoryId": 3,
+        "authorId": 1
+      },
+      {
+        "name": "Air Max Fusion",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 100,
+        "stock": 95,
+        "imgUrl": "https://e1.pxfuel.com/desktop-wallpaper/149/1015/desktop-wallpaper-nike-sb-spring-orange-bruin-zoom-shoes-pochta-uz.jpg",
+        "categoryId": 1,
+        "authorId": 1
+      },
+      {
+        "name": "SolarGlide Boost",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 110,
+        "stock": 85,
+        "imgUrl": "https://miro.medium.com/max/680/0*yDJPA7Ne2u4XyLFv.jpeg",
+        "categoryId": 2,
+        "authorId": 1
+      },
+      {
+        "name": "NanoFlex Agility",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 120,
+        "stock": 105,
+        "imgUrl": "https://blog.atome.id/wp-content/uploads/2022/12/3-1-7.jpg",
+        "categoryId": 3,
+        "authorId": 1
+      },
+      {
+        "name": "Free Run Momentum",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 130,
+        "stock": 75,
+        "imgUrl": "https://s1.dswcdn.com/uploads/Nike_Zoom_Lunar_Shoes/Air_Zoom_Pegasus_30/Nike_Air_Zoom_Pegasus_30X_Black_White_Green_Running_Shoes_599205-012.jpg",
+        "categoryId": 1,
+        "authorId": 1
+      },
+      {
+        "name":"Zig Kinetica Flux",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 140,
+        "stock": 115,
+        "imgUrl": "https://www.sepkicks.com/uploads/Adidas_Shoes/Adidas_ZX_EQT_Series/Adidas_ZX_750_HD_Collegiate_Royal_Red_Shoes_FX7463_P3.jpg",
+        "categoryId": 2,
+        "authorId":1
+      },{
+        "name": "Club C Leather",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 50,
+        "stock": 100,
+        "imgUrl": "https://image.popbela.com/content-images/post/20231004/154f4c975902561aea2c1e4263e2a983.jpg?width=1600&format=webp&w=1600",
+        "categoryId": 3,
+        "authorId":1
+      },
+      {
+        "name": "Zoom Pegasus Turbo",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 60,
+        "stock": 80,
+        "imgUrl": "https://e0.pxfuel.com/wallpapers/692/616/desktop-wallpaper-nike-shoes-nike-sneakers.jpg",
+        "categoryId": 1,
+        "authorId": 1
+      },
+      {
+        "name":"Floatride Energy",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 70,
+        "stock": 120,
+        "imgUrl": "https://e1.pxfuel.com/desktop-wallpaper/320/751/desktop-wallpaper-adidas-shoes-shoes.jpg",
+        "categoryId": 2,
+        "authorId": 1
+      },
+      {
+        "name": "Legacy Lifter Pro",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 80,
+        "stock": 90,
+        "imgUrl": "https://c.inilah.com/reborn/2023/09/specs_681bb143c9.jpg",
+        "categoryId": 3,
+        "authorId": 1
+      },
+      {
+        "name": "Joyride React Vision",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 90,
+        "stock": 110,
+        "imgUrl": "https://getwallpapers.com/wallpaper/full/3/f/6/1516739-cool-nike-basketball-wallpaper-hd-1920x1200-for-macbook.jpg",
+        "categoryId": 1,
+        "authorId": 1
+      },
+      {
+        "name": "Classic Nylon Runner",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 100,
+        "stock": 95,
+        "imgUrl": "https://images.tokopedia.net/img/cache/700/VqbcmM/2020/8/5/ddefedc7-5f42-466c-8088-111ede9bd57b.jpg",
+        "categoryId": 2,
+        "authorId": 1
+      },
+      {
+        "name": "Speed TR Flexweave",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 110,
+        "stock": 85,
+        "imgUrl": "https://www.koran.id/wp-content/uploads/2021/04/Merek-Sepatu-Pria-Terkenal.jpg",
+        "categoryId": 3,
+        "authorId": 1
+      },
+      {
+        "name": "Air Force Impact",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 120,
+        "stock": 105,
+        "imgUrl": "https://media.karousell.com/media/photos/products/2022/5/3/lebron_james_xi_graffiti_1651604903_b9b809cb.jpg",
+        "categoryId": 1,
+        "authorId": 1
+      },
+      {
+        "name": "Floatride Run Fast",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 130,
+        "stock": 75,
+        "imgUrl": "https://ecs7.tokopedia.net/img/cache/700/product-1/2017/10/5/122953711/122953711_ccf7f76e-ba0b-4460-b8c5-2d8ccf3d5492_1776_1184.jpg",
+        "categoryId": 2,
+        "authorId": 1
+      },
+      {
+        "name": "Pump Fury Instapump",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 140,
+        "stock": 115,
+        "imgUrl": "https://artikel.rumah123.com/wp-content/uploads/sites/41/2023/12/05153253/sepatu-reebok-4.jpg",
+        "categoryId": 3,
+        "authorId": 1
+      },{
+        "name": "Zig Dynamica",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 50,
+        "stock": 100,
+        "imgUrl": "https://e1.pxfuel.com/desktop-wallpaper/649/149/desktop-wallpaper-unisex-2017-2018-soccer-shoes-adidas-ace-17-3-fg-soccer-shoes-clear-nike-soccer-boots-adidas.jpg",
+        "categoryId": 2,
+        "authorId": 1
+      }
+     
+ 
+  ]
+  

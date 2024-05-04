@@ -1,0 +1,12 @@
+[
+    {   
+        "userName": "admin1",
+        "email": "admin1@gmail.com",
+        "password": "admin1",
+        "role": "Admin",
+        "phoneNumber": "085726261222",
+        "address": "456 Oak Avenue, Townsville"
+    }
+]
+
+
